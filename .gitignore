@@ -1,0 +1,16 @@
+# Visual Studio 관련 파일
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.log
+*.tlog
+*.ipch
+*.aps
+*.sdf
+*.opensdf
+*.vcxproj.user
+Debug/
+Release/
+x64/
